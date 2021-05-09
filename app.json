@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "hobbies-screen",
+    "slug": "snack-98dab1dc-f619-4772-b88a-93f6819781af",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
